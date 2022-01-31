@@ -1,0 +1,38 @@
+1-  -> instalar bibliotecas js e css do bootstrap
+    -> cria o formulário em html usando as classes do bootstrap 
+    -> inserir o action do form, que vai indicar para qual tela vai após o submit do from, e inserir o method, no caso, POST 
+   
+2-  -> construir o banco de dados, com o nome "empresa" (usado o phpmyadmin)
+    -> adiciona os atributos da tabela "pessoas" dentro do banco "empresa" (usando a interface mesmo, sem digitar os codigos)
+
+3-  -> fazer a conexão do PHP com o referido banco de dados
+    -> anotações feitas direto no código (importante) 
+
+4-  -> cria o arquivo cadastro_script.php para cadastrar pessoas no banco de dados (php)
+    -> neste reaproveita parte do html do index, porem apaga o form 
+    -> no script cadastro_script.php, foi criado os códigos php para envio de dados para o banco
+    -> criando o alert de confirmação de cadastrad ou não, e também criado o button de voltar ao index 
+
+5-  -> criado tela de pesquisa.php  
+    -> inserções de a href para navegar entre as páginas
+    ->criado novo index e inserido um jumbotron para tela inicial
+
+6-  -> configurar a tela de pesquisa.php
+    -> script para listar os dados da tabela no banco de dados 
+    -> criado os dados de front da tabela pesquisa.php 
+    -> trazendo dados do banco e mostrando na tela
+
+7-  -> na tela pesquisa.php, foi criada a função para listar todos os dados disponíveis dinamicamente 
+
+8 - -> realizado funções de php e sql para alterações de dados 
+
+9- -> realizado script para o modal de exclusão, e script php e sql de exlusão de dados
+
+10- -> adicionar foto aos cadastros de pessoas
+
+11- -> configurando entrada de fotos 
+
+12- -> configuração de sessões, com identificadores de usuários 
+
+13- ->concluído 
+
